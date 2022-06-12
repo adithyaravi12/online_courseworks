@@ -9,6 +9,7 @@ In this section I have added the project files and jupyter notebooks I created w
 	+ [Color picker using OpenCV](#color-picker-using-openCV)
 	+ [Shape detection using OpenCV](#shape-detection-using-openCV)
 	+ [Text detection using OpenCV](#text-detection-using-openCV)
+	+ [Calculate Order History](#calculate-order-history)
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
@@ -42,6 +43,13 @@ In this section I will provide links to my github repositories containing code a
 **Description:** With some help, I was able to program a text detector while learning opencv from the base up.  
 **Technology:** Python, OpenCV  
 **Results:** Maps around the text, and display the content of the text that has been detected on top of it
+
+### [Calculate Order History](https://github.com/adithyaravi12/online_courseworks/tree/main/amazon-bill)
+**Code:** [`amazon_order_history.ipynb`](https://github.com/adithyaravi12/online_courseworks/blob/main/amazon-bill/amazon_order_history.ipynb)    
+**Description:** I used numpy in python to analyze amazon data to see how much money I spent on the e-commerce website. (All figures are in rupees.)  
+**Technology:** Python, Pandas  
+**Results:** Displays a bar graph depicting the amount of money spent on certain years throughout time.
+
 ## Run Locally
 
 Clone the project
