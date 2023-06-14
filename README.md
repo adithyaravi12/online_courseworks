@@ -10,6 +10,7 @@ In this section I have added the project files and jupyter notebooks I created w
 	+ [Shape detection using OpenCV](#shape-detection-using-openCV)
 	+ [Text detection using OpenCV](#text-detection-using-openCV)
 	+ [Calculate Order History](#calculate-order-history)
+	+ [COVID-19 Guided Project - Analysis](#covid-analysis)
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
@@ -49,6 +50,9 @@ In this section I will provide links to my github repositories containing code a
 **Description:** I used numpy in python to analyze amazon data to see how much money I spent on the e-commerce website. (All figures are in rupees.)  
 **Technology:** Python, Pandas  
 **Results:** Displays a bar graph depicting the amount of money spent on certain years throughout time.
+
+### [Covid Analysis](https://github.com/adithyaravi12/online_courseworks/tree/main/SQL/COVID%20Analysis)
+**File:**[`SQLQuery1.sql`](https://github.com/adithyaravi12/online_courseworks/blob/main/SQL/COVID%20Analysis/SQLQuery1.sql)
 
 ## Run Locally
 
