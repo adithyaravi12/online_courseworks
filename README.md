@@ -3,7 +3,9 @@
 
 In this section I have added the project files and jupyter notebooks I created while passing online courses or was just having fun with. I have listed the projects and briefly describing the technology stack used to solve cases.
 
-- [Study Projects](#study-projects)  
+- [Study Projects](#study-projects)
+    + [Oktoberfest Data Analysis]()
+    + [Food Delivery Time Analysis]() 
     + [Black Jack game using JavaScript](#black-jack-game-using-javaScript)
 	+ [Generate random passwords using JavaScript](#generate-random-passwords-using-javaScript)
 	+ [Color picker using OpenCV](#color-picker-using-openCV)
