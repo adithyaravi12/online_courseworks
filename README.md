@@ -4,8 +4,8 @@
 In this section I have added the project files and jupyter notebooks I created while passing online courses or was just having fun with. I have listed the projects and briefly describing the technology stack used to solve cases.
 
 - [Study Projects](#study-projects)
-    + [Oktoberfest Data Analysis]()
-    + [Food Delivery Time Analysis]() 
+    + [Oktoberfest Data Analysis](#oktoberfest-data-analysis-and-prediction)
+    + [Food Delivery Time Analysis](#food-delivery-time-analysis) 
     + [Black Jack game using JavaScript](#black-jack-game-using-javaScript)
 	+ [Generate random passwords using JavaScript](#generate-random-passwords-using-javaScript)
 	+ [Color picker using OpenCV](#color-picker-using-openCV)
@@ -16,6 +16,12 @@ In this section I have added the project files and jupyter notebooks I created w
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
+
+### [Oktoberfest Data Analysis and Prediction](https://github.com/adithyaravi12/online_courseworks/tree/main/Oktoberfest)
+**Code:** [`Oktoberfest dataset.ipynb`](https://github.com/adithyaravi12/online_courseworks/blob/main/Oktoberfest/Oktoberfest%20dataset.ipynb)
+
+### [Food Delivery Time Analysis](https://github.com/adithyaravi12/online_courseworks/tree/main/Food%20Delivery%20Time)
+**Code:** [`Food delivery time proj.ipynb`](https://github.com/adithyaravi12/online_courseworks/blob/main/Food%20Delivery%20Time/Food%20delivery%20time%20proj.ipynb)
 
 ### [Black Jack game using JavaScript](https://github.com/adithyaravi12/online_courseworks/tree/main/scrimba/black-jack)
 **Code:** [`index.html`](https://github.com/adithyaravi12/online_courseworks/blob/main/scrimba/black-jack/index.html)    
