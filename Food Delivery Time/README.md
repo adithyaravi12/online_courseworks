@@ -55,7 +55,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/adithyaravi12/online_courseworks/blob/main/Food%20Delivery%20Time/Screenshot%202023-11-06%20123751.png)
 
 
 ## Feedback
